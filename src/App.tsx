@@ -1,4 +1,4 @@
-
+import UserProfile from './components/UserProfile'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       
-      <div>Assalam u Alaikum</div>
+      <UserProfile />
     </>
   )
 }
