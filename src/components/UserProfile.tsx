@@ -15,10 +15,10 @@ export default function UserProfile() {
               <div className="text-blue-500 size-8 fill-blue-500"></div>
             </div>
             <div className="fiex-1">
-              <h1 className="text-4xl font-bold text-gray-400 mb-1">
-                Talan Dias
+              <h1 className="text-4xl ml-5 mt-5 font-bold text-teal-400 mb-1">
+                Hadia Hasan
               </h1>
-              <p className="text-xl text-gray-500 font-medium">UX Designer</p>
+              <p className="text-xl text-gray-500 font-medium">Website Developer</p>
             </div>
           </div>
         </div>
